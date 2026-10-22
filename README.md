@@ -1,4 +1,4 @@
-Set-Content -Path README.md -Value @"
+
 # 🥷 Ninja Dev 3D - Next-Gen Edition
 
 Um jogo interativo desenvolvido em Python com motor de projeção 3D nativo, física de partículas, renderização neon e alternância de mapas em tempo real.
